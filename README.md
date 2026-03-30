@@ -1,3 +1,4 @@
+*Read this in [English](README_en.md).*
 # Análise de Dados de Sensores IoT Agrícolas 🚜
 
 Projeto prático de limpeza, tratamento de dados temporais e detecção de anomalias (Outliers) em dados de sensores do agronegócio, utilizando Python, Pandas e conceitos de estatística (Z-Score).
