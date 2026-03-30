@@ -1,4 +1,4 @@
-# IoT Agricultural Sensor Data Analysis ??
+# IoT Agricultural Sensor Data Analysis 🚜
 
 Practical project for cleaning, processing time-series data, and detecting anomalies (outliers) in agribusiness sensor data using Python, Pandas, and statistical concepts (Z-Score).
 
