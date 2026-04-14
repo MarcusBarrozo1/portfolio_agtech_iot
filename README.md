@@ -29,4 +29,4 @@ Este projeto apresenta um pipeline básico de limpeza e preparação de dados pa
 O projeto resultou em um dataset limpo (`iot_agricola_clean.csv`), pronto para modelagem preditiva, com visualizações que comprovam a remoção de ruídos e a identificação de padrões diários.
 
 ---
-**Marcus Barrozo** *Geographic Data Scientist | Remote Sensing Specialist*
+**Marcus Barrozo** *Data Scientist | Geospatial Intelligence*
